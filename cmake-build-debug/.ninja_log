@@ -1,0 +1,13 @@
+# ninja log v6
+1	423	1729574610808587372	Code_lib/CMakeFiles/Code_lib.dir/BST.cpp.o	ec9ffe5ad67b51a3
+1	450	1729574610808964918	CMakeFiles/Code_lib_run.dir/main.cpp.o	c840693dbdcaafc
+1	491	1729574610808830083	Code_lib/CMakeFiles/Code_lib.dir/Dictionary.cpp.o	2cb7b11772848cf6
+491	524	1729574611298887835	Code_lib/libCode_lib.a	34b45fa5a12162d6
+524	636	1729574611331636011	Code_lib_run	de09ed066206fd16
+5	834	1729574622469191113	Google_tests/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	88fec8640c7f6d60
+6	870	1729574622469338406	Google_tests/CMakeFiles/Google_Tests_run.dir/TestBST.cpp.o	c691a6d52788ed3e
+6	1049	1729574622469769452	Google_tests/CMakeFiles/Google_Tests_run.dir/TestDictionary.cpp.o	a6faf4ab922943ed
+5	1776	1729574622468763984	Google_tests/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	48070e4b7ecc8cbd
+1776	1913	1729574624239591384	lib/libgtestd.a	920cfd97bb769ab5
+1914	1969	1729574624377327908	lib/libgtest_maind.a	ff3dbc3bcd8b6de4
+1969	2261	1729574624432536235	Google_tests/Google_Tests_run	68ff950a46515e21

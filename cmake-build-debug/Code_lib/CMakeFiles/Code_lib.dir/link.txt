@@ -1,0 +1,2 @@
+C:\msys64\mingw64\bin\ar.exe qc libCode_lib.a CMakeFiles/Code_lib.dir/BST.cpp.obj CMakeFiles/Code_lib.dir/Dictionary.cpp.obj
+C:\msys64\mingw64\bin\ranlib.exe libCode_lib.a
